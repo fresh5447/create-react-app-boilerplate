@@ -1,0 +1,2 @@
+web: yarn run start
+api: cd node-server && PORT=3001 node bin/www
